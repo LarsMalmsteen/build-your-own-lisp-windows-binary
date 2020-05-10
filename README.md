@@ -17,4 +17,4 @@ Not: Sadece Windows 7'de derlenmiş ve denenmiştir.
 
 Örnek bir fonksiyon  çalıştırma anı:
 
-[image]!(https://i.ibb.co/pPD9QJk/lispy.png)
+![image](https://i.ibb.co/pPD9QJk/lispy.png)
